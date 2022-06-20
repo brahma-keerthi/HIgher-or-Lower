@@ -11,7 +11,7 @@
         android:layout_width="358dp"
         android:layout_height="50dp"
         android:layout_marginTop="72dp"
-        android:text="I have guessed a number for 1 to 20 try to get it!"
+        android:text="I have guessed a number from 1 to 20 try to get it!"
         android:textAlignment="center"
         android:textSize="20sp"
         app:layout_constraintHorizontal_bias="0.494"
